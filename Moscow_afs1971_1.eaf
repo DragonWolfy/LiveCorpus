@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-12-09T15:31:58+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///F:/ВШЭ/Moscow_afs1971_1.avi" MIME_TYPE="video/*" RELATIVE_MEDIA_URL="./Moscow_afs1971_1.avi"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:3d205962-ea9c-4ff3-82ca-71de6d09566b</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">11</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="119010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="125450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="125922"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="127802"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="129390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="134760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="135280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="139990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="140360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="148050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="151620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="159390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="160860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="164440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="164840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="168720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="169460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="174290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="174970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="176320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="178580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="186900"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="afs@speech">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>ээ про'жили мы с ма'мой, с па'пой и с мое'й сестро'й в просто'рной трёхко'мнатной кварти'ре.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>проучи'лся в два'дцать пя'той шко'ле</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>по'сле чего' бо'льше там ни ра'зу не был потому' что уе'хал учи'ться в Е-катеринбу'рг, тогда'шний Све'рдловск.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>ещё' в сове'тское вре'мя, в во'семьдесят восьмо'м году'</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>я поступи'л на пе'рвый курс ну вообще' поступи'л на нева'жно како'й курс ээ в институ'т архетикту'рный институ'т Свердловко-'  в го'роде све'рдловск.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>по'сле шести' лет обуче'ния сде'лался архите'ктором. ээ уе'хал рабо'тать мм в го'род</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Краснотури'нск, где по мои'м проэ'ктам постро'или аж не'сколько зда'ний.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Одно' из них - зда'ние казначе'йства и це'нтра за'нятости</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>краси'вое, замеча'тельное кра'сное кирпи'чное зда'ние, до сих пор стои'т, не развали'лось.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Потому' что я сде'лал хоро'ший проэ'кт.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>по'сле того' как я там порабо'тал уе'хал рабо'тать помо'шником гла'вного архите'ктора в го'род Са'дко!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
