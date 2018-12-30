@@ -1,0 +1,871 @@
+# time_begin = 1.59
+
+afs@
+
+# sent_id = 3
+# text = ээ прожили мы с мамой, с папой и с моей сестрой / в просторной трёхкомнатной квартире.
+1	ээ	ээ	INTJ	_	_	_	_	_	_
+2	прожили	прожить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+3	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+4	с	с	ADP	_	_	_	_	_	_
+5	мамой	мама	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	_
+7	с	с	ADP	_	_	_	_	_	_
+8	папой	папа	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+9	и	и	CCONJ	_	_	_	_	_	_
+10	с	с	ADP	_	_	_	_	_	_
+11	моей	мой	DET	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	_
+12	сестрой	сестра	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	_	_	_	_
+13	/	/	PUNCT	_	_	_	_	_	_
+14	в	в	ADP	_	_	_	_	_	_
+15	просторной	просторный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+16	трёхкомнатной	трёхкомнатный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+17	квартире	квартира	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 5
+# text = проучился в двадцать пятой школе / после чего больше там ни разу не был потому что уехал учиться в Е-катеринбург, тогдашний Свердловск.
+1	проучился	проучиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+2	в	в	ADP	_	_	_	_	_	_
+3	двадцать	двадцать	NUM	_	Case=Acc	_	_	_	_
+4	пятой	пятый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+5	школе	школа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	после	после	ADP	_	_	_	_	_	_
+8	чего	что	PRON	_	Case=Gen	_	_	_	_
+9	больше	много	ADV	_	Degree=Cmp	_	_	_	_
+10	там	там	ADV	_	Degree=Pos	_	_	_	_
+11	ни	ни	PART	_	Polarity=Neg	_	_	_	_
+12	разу	раз	NOUN	_	Animacy=Inan|Case=Par|Gender=Masc|Number=Sing	_	_	_	_
+13	не	не	PART	_	_	_	_	_	_
+14	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+15	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+16	что	что	SCONJ	_	_	_	_	_	_
+17	уехал	уехать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+18	учиться	учиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	_	_	_
+19	в	в	ADP	_	_	_	_	_	_
+20	Е-катеринбург	Екатеринбург	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	_
+22	тогдашний	тогдашний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+23	Свердловск	Свердловск	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 7
+# text = ещё в советское время / в восемьдесят восьмом году / я поступил на первый курс / ну вообще поступил на неважно какой курс / ээ / в институт / архитектурный институт Свердловко- / в городе свердловск.
+1	ещё	еще	ADV	_	Degree=Pos	_	_	_	_
+2	в	в	ADP	_	_	_	_	_	_
+3	советское	советский	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+4	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	в	в	ADP	_	_	_	_	_	_
+7	восемьдесят	восемьдесят	NUM	_	Case=Acc	_	_	_	_
+8	восьмом	восьмой	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+9	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+12	поступил	поступить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+13	на	на	ADP	_	_	_	_	_	_
+14	первый	первый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+15	курс	курс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	ну	ну	PART	_	_	_	_	_	_
+18	вообще	вообще	ADV	_	Degree=Pos	_	_	_	_
+19	поступил	поступить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+20	на	на	ADP	_	_	_	_	_	_
+21	неважно	неважный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	_
+22	какой	какой	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+23	курс	курс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+24	/	/	PUNCT	_	_	_	_	_	_
+25	ээ	ээ	INTJ	_	_	_	_	_	_
+26	/	/	PUNCT	_	_	_	_	_	_
+27	в	в	ADP	_	_	_	_	_	_
+28	институт	институт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+29	/	/	PUNCT	_	_	_	_	_	_
+30	архитектурный	архитектурный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+31	институт	институт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+32	Свердловко	Свердловк	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+33	-	-	PUNCT	_	_	_	_	_	_
+34	/	/	PUNCT	_	_	_	_	_	_
+35	в	в	ADP	_	_	_	_	_	_
+36	городе	город	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+37	Cвердловск	Свердловск	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 9
+# text = ээ / после шести лет обучения / сделался архитектором.
+1	ээ	ээ	INTJ	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	после	после	ADP	_	_	_	_	_	_
+4	шести	шесть	NUM	_	Case=Gen	_	_	_	_
+5	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+6	обучения	обучение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	сделался	делаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+9	архитектором	архитектор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 11
+# text = ээ / уехал работать / мм / в город
+1	ээ	ээ	INTJ	_	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	уехал	уехать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	работать	работать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	мм	миллиметр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	в	в	ADP	_	_	_	_	_	_
+9	город	город	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 13
+# text = Краснотуринск, где по моим проэктам построили аж несколько зданий.
+1	Краснотуринск	Краснотуринск	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	_
+3	где	где	ADV	_	Degree=Pos	_	_	_	_
+4	по	по	ADP	_	_	_	_	_	_
+5	моим	мой	DET	_	Case=Dat|Number=Plur	_	_	_	_
+6	проэктам	проэкт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	_	_	_	_
+7	построили	строить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+8	аж	аж	PART	_	_	_	_	_	_
+9	несколько	несколько	NUM	_	Case=Nom	_	_	_	_
+10	зданий	здание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 15
+# text = Одно из них - здание казначейства и центра занятости / красивое, замечательное красное кирпичное здание, до сих пор стоит, не развалилось.
+1	Одно	один	NUM	_	Case=Nom|Gender=Neut	_	_	_	_
+2	из	из	ADP	_	_	_	_	_	_
+3	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	_	_	_	_
+4	-	-	PUNCT	_	_	_	_	_	_
+5	здание	здание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+6	казначейства	казначейство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+7	и	и	CCONJ	_	_	_	_	_	_
+8	центра	центр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+9	занятости	занятость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	красивое	красивый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	_
+13	замечательное	замечательный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+14	красное	красный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+15	кирпичное	кирпичный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+16	здание	здание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	_
+18	до	до	ADP	_	_	_	_	_	_
+19	сих	сей	DET	_	Case=Gen|Number=Plur	_	_	_	_
+20	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	_
+21	стоит	стоять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	_
+23	не	не	PART	_	_	_	_	_	_
+24	развалилось	развалиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 17
+# text = Потому что я сделал хороший проэкт.
+1	Потому	потому	ADV	_	Degree=Pos	_	_	_	_
+2	что	что	SCONJ	_	_	_	_	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+4	сделал	делать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	хороший	хороший	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+6	проэкт	проэкт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 19
+# text = Ммм после того как я там поработал уехал работать помошником главного архитектора / в город / Садко!
+1	Ммм	Ммм	INTJ	_	_	_	_	_
+2	после	после	ADP	_	_	_	_	_	_
+3	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+4	как	как	SCONJ	_	_	_	_	_	_
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+6	там	там	ADV	_	Degree=Pos	_	_	_	_
+7	поработал	поработать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+8	уехал	уехать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+9	работать	работать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+10	помошником	помошник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+11	главного	главный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+12	архитектора	архитектор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+13	/	/	PUNCT	_	_	_	_	_	_
+14	в	в	ADP	_	_	_	_	_	_
+15	город	город	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	Садко	Садко	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+18	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 21
+# text = а, забыл сказать что Краснотуринск это север свердловской области.
+1	а	а	INTJ	_	_	_	_	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	_
+3	забыл	забыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+5	что	что	SCONJ	_	_	_	_	_	_
+6	Краснотуринск	Краснотуринск	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+7	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+8	север	север	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+9	свердловской	свердловский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+10	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 23
+# text = А город Садко это юг челябинской области.
+1	А	а	CCONJ	_	_	_	_	_	_
+2	город	город	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+3	Садко	Садко	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+4	это	этот	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+5	юг	юг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+6	челябинской	челябинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+7	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 25
+# text = Все урал / везде горы / везде красивая природа / замечательные добрые люди.
+1	Все	все	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+2	Урал	Урал	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	везде	везде	ADV	_	Degree=Pos	_	_	_	_
+5	горы	гора	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	везде	везде	ADV	_	Degree=Pos	_	_	_	_
+8	красивая	красивый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+9	природа	природа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	замечательные	замечательный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+12	добрые	добрый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+13	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 27
+# text = Аа в городе К- / с-Садке я работал заместителем главного архитектора, помошником по / благоустройству.
+1	Аа	Аа	INTJ	_	_	_	_	_
+2	в	в	ADP	_	_	_	_	_	_
+3	городе	город	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+4	К-	к-	PUNCT	_	_	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	с-Садке	Садка	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+8	работал	работать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+9	заместителем	заместитель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+10	главного	главный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+11	архитектора	архитектор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	_
+13	помошником	помошник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+14	по	по	ADP	_	_	_	_	_	_
+15	/	/	PUNCT	_	_	_	_	_	_
+16	благоустройству	благоустройство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 29
+# text = ээм / проработал там кучу лет / уже не помню сколько / а / после / того как поработал, мне там надоело быть / не архитектором а помошником / я уехал обратно в город Екатеринбург уже / в советское время / после-советское время его переименовали из Свердловска в Екатеринбург / приехал в город Екатеринбург / и стал работать там / Не архитектором, вы ошиблись / стал работать там / Дизайнером.
+1	ээм	ээм	INTJ	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	проработал	проработать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	там	там	ADV	_	Degree=Pos	_	_	_	_
+5	кучу	куча	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+6	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+9	не	не	PART	_	_	_	_	_	_
+10	помню	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+11	сколько	сколько	NUM	_	_	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	а	а	INTJ	_	_	_	_	_	_
+14	/	/	PUNCT	_	_	_	_	_	_
+15	после	после	ADP	_	_	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+18	как	как	SCONJ	_	_	_	_	_	_
+19	поработал	поработать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	_
+21	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+22	там	там	ADV	_	Degree=Pos	_	_	_	_
+23	надоело	надоесть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+24	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+25	/	/	PUNCT	_	_	_	_	_	_
+26	не	не	PART	_	_	_	_	_	_
+27	архитектором	архитектор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+28	а	а	CCONJ	_	_	_	_	_	_
+29	помошником	помошник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+30	/	/	PUNCT	_	_	_	_	_	_
+31	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+32	уехал	уехать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+33	обратно	обратно	ADV	_	Degree=Pos	_	_	_	_
+34	в	в	ADP	_	_	_	_	_	_
+35	город	город	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+36	Екатеринбург	Екатеринбург	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+37	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+38	/	/	PUNCT	_	_	_	_	_	_
+39	в	в	ADP	_	_	_	_	_	_
+40	советское	советский	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+41	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+42	/	/	PUNCT	_	_	_	_	_	_
+43	после	после	ADP	_	_	_	_	_	SpaceAfter=No
+44	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
+45	советское	советский	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+46	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+47	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+48	переименовали	переименовать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+49	из	из	ADP	_	_	_	_	_	_
+50	Свердловска	Свердловск	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+51	в	в	ADP	_	_	_	_	_	_
+52	Екатеринбург	Екатеринбург	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+53	/	/	PUNCT	_	_	_	_	_	_
+54	приехал	приехать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+55	в	в	ADP	_	_	_	_	_	_
+56	город	город	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+57	Екатеринбург	Екатеринбург	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+58	/	/	PUNCT	_	_	_	_	_	_
+59	и	и	CCONJ	_	_	_	_	_	_
+60	стал	стать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+61	работать	работать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+62	там	там	ADV	_	Degree=Pos	_	_	_	_
+63	/	/	PUNCT	_	_	_	_	_	_
+64	Не	не	PART	_	_	_	_	_	_
+65	архитектором	архитектор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+66	,	,	PUNCT	_	_	_	_	_	_
+67	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	_
+68	ошиблись	ошибиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+69	/	/	PUNCT	_	_	_	_	_	_
+70	стал	стать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+71	работать	работать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+72	там	там	ADV	_	Degree=Pos	_	_	_	_
+73	/	/	PUNCT	_	_	_	_	_	_
+74	Дизайнером	Дизайнер	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+75	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 31
+# text = Получил огромный опыт работая в нескольких конторах / [нрзб] / научисля / э / работать / на компьютере / на, я уже не помню, в самых интересных графических программах / теперь, после некоторого время работы в Екатеринбурге приехал работать в Москву / откуда сейчас и даю сегоднешнее интревью
+1	Получил	получить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+2	огромный	огромный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+3	опыт	опыт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+4	работая	работать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	_	_	_	_
+5	в	в	ADP	_	_	_	_	_	_
+6	нескольких	несколько	NUM	_	Case=Loc	_	_	_	_
+7	конторах	контора	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	[нрзб]	[нрзб]	X	_	_	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	научисля	научисль	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	э	э	INTJ	_	_	_	_	_	_
+14	/	/	PUNCT	_	_	_	_	_	_
+15	работать	работать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	на	на	ADP	_	_	_	_	_	_
+18	компьютере	компьютер	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+19	/	/	PUNCT	_	_	_	_	_	_
+20	на	на	ADP	_	_	_	_	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	_
+22	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+23	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+24	не	не	PART	_	_	_	_	_	_
+25	помню	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	_	_	_	_
+27	в	в	ADP	_	_	_	_	_	_
+28	самых	самый	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	_	_	_	_
+29	интересных	интересный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	_	_	_	_
+30	графических	графический	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	_	_	_	_
+31	программах	программа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	_	_	_	_
+32	/	/	PUNCT	_	_	_	_	_	_
+33	теперь	теперь	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	_	_	_	_
+35	после	после	ADP	_	_	_	_	_	_
+36	некоторого	некоторый	DET	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+37	время	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+38	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+39	в	в	ADP	_	_	_	_	_	_
+40	Екатеринбурге	Екатеринбург	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+41	приехал	приехать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+42	работать	работать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+43	в	в	ADP	_	_	_	_	_	_
+44	Москву	Москва	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+45	/	/	PUNCT	_	_	_	_	_	_
+46	откуда	откуда	ADV	_	Degree=Pos	_	_	_	_
+47	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	_
+48	и	и	CCONJ	_	_	_	_	_	_
+49	даю	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+50	сегоднешнее	сегоднешный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+51	интревью	интревь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+
+oas@
+
+[смеется] [нрзб]
+
+ouk@
+
+[нрзб]
+
+afs@
+
+# sent_id = 37
+# text = вот / где-то там, в Екатеринбурге, в году двухтысячном у меня родилась дочь, которая сейчас держит передо мной камеру / и ржет в голос / ээ / смеётся в смысле
+1	вот	вот	PART	_	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	где-то	где-то	ADV	_	Degree=Pos	_	_	_	_
+4	там	там	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	_
+6	в	в	ADP	_	_	_	_	_	_
+7	Екатеринбурге	Екатеринбург	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	_
+9	в	в	ADP	_	_	_	_	_	_
+10	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+11	двухтысячном	двухтысячный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+12	у	у	ADP	_	_	_	_	_	_
+13	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+14	родилась	рождаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+15	дочь	дочь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	_
+17	которая	который	PRON	_	Case=Nom	_	_	_	_
+18	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	_
+19	держит	держать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+20	передо	перед	ADP	_	_	_	_	_	_
+21	мной	я	PRON	_	Case=Ins|Number=Sing|Person=1	_	_	_	_
+22	камеру	камера	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+23	/	/	PUNCT	_	_	_	_	_	_
+24	и	и	CCONJ	_	_	_	_	_	_
+25	ржет	рзать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+26	в	в	ADP	_	_	_	_	_	_
+27	голос	голос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+28	/	/	PUNCT	_	_	_	_	_	_
+29	ээ	ээ	INTJ	_	_	_	_	_	_
+30	/	/	PUNCT	_	_	_	_	_	_
+31	смеётся	смеёться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+32	в	в	ADP	_	_	_	_	_	_
+33	смысле	смысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 39
+# text = ну в общем там росла и выросла, потом мы приехали в Москву, она стала расти и выростать дальше сдесь / ээ / после чего поступила в институт.
+1	ну	ну	PART	_	_	_	_	_	_
+2	в	в	ADP	_	_	_	_	_	_
+3	общем	общий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+4	там	там	ADV	_	Degree=Pos	_	_	_	_
+5	росла	расти	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+6	и	и	CCONJ	_	_	_	_	_	_
+7	выросла	вырасти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	_
+9	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+10	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+11	приехали	приехать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+12	в	в	ADP	_	_	_	_	_	_
+13	Москву	Москва	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	_
+15	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+16	стала	стать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+17	расти	расти	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+18	и	и	CCONJ	_	_	_	_	_	_
+19	выростать	выростать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+20	дальше	далеко	ADV	_	Degree=Cmp	_	_	_	_
+21	сдесь	сдься	ADV	_	Degree=Pos	_	_	_	_
+22	/	/	PUNCT	_	_	_	_	_	_
+23	ээ	ээ	INTJ	_	_	_	_	_	_
+24	/	/	PUNCT	_	_	_	_	_	_
+25	после	после	ADP	_	_	_	_	_	_
+26	чего	что	PRON	_	Case=Gen	_	_	_	_
+27	поступила	поступить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+28	в	в	ADP	_	_	_	_	_	_
+29	институт	институт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 41
+# text = ну ладно, это уже о ней а не обо мне.
+1	ну	ну	PART	_	_	_	_	_	_
+2	ладно	ладно	PART	_	_	_	_	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	_
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+5	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+6	о	о	ADP	_	_	_	_	_	_
+7	ней	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+8	а	а	CCONJ	_	_	_	_	_	_
+9	не	не	PART	_	_	_	_	_	_
+10	обо	о	ADP	_	_	_	_	_	_
+11	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 43
+# text = значит / я / приехал сюда / работаю опять же дизайнером / в одной известной / рекламной группе.
+1	значит	значит	ADV	_	Degree=Pos	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	приехал	приехать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+6	сюда	сюда	ADV	_	Degree=Pos	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	работаю	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+9	опять	опять	ADV	_	Degree=Pos	_	_	_	_
+10	же	же	PART	_	_	_	_	_	_
+11	дизайнером	дизайнер	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	в	в	ADP	_	_	_	_	_	_
+14	одной	один	NUM	_	Case=Loc|Gender=Fem	_	_	_	_
+15	известной	известный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	рекламной	рекламный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+18	группе	группа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 45
+# text = работаю / не просто так работаю, а работаю там арт-директором / я такой почти самый первый человек в конторе / ну в смыле второй / после первого.
+1	работаю	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	не	не	PART	_	_	_	_	_	_
+4	просто	просто	PART	_	_	_	_	_	_
+5	так	так	ADV	_	Degree=Pos	_	_	_	_
+6	работаю	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	_
+8	а	а	CCONJ	_	_	_	_	_	_
+9	работаю	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+10	там	там	ADV	_	Degree=Pos	_	_	_	_
+11	арт-директором	арт-директор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+14	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+15	почти	почти	ADV	_	Degree=Pos	_	_	_	_
+16	самый	самый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+17	первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+18	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+19	в	в	ADP	_	_	_	_	_	_
+20	конторе	контора	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+21	/	/	PUNCT	_	_	_	_	_	_
+22	ну	ну	PART	_	_	_	_	_	_
+23	в	в	ADP	_	_	_	_	_	_
+24	смыле	смыл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+25	второй	второй	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+26	/	/	PUNCT	_	_	_	_	_	_
+27	после	после	ADP	_	_	_	_	_	_
+28	первого	первый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 47
+# text = а / мы занимаемся рекламой, всякими подарками, всякими дизайнами и в общем мы клёвые, замечательные ребята.
+1	а	а	CCONJ	_	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+4	занимаемся	заниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+5	рекламой	реклама	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	_
+7	всякими	всякий	DET	_	Case=Ins|Number=Plur	_	_	_	_
+8	подарками	подарок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	_
+10	всякими	всякий	DET	_	Case=Ins|Number=Plur	_	_	_	_
+11	дизайнами	дизайн	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	_	_	_	_
+12	и	и	CCONJ	_	_	_	_	_	_
+13	в	в	ADP	_	_	_	_	_	_
+14	общем	общий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+15	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+16	клёвые	клёвый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	_
+18	замечательные	замечательный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+19	ребята	ребята	NOUN	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 49
+# text = а мм / сейчас я сижу перед / аа / перед деревяхой.
+1	а	а	CCONJ	_	_	_	_	_	_
+2	мм	мм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	_
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+6	сижу	сидеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+7	перед	перед	ADP	_	_	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	аа	ао	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	перед	перед	ADP	_	_	_	_	_	_
+12	деревяхой	деревяха	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 51
+# text = в одном дурацком советском интервью я видел такую штуку: / интрервьюер спросил у интревьюироваемого [смеётся] а чем это вы тут занимаетесь?
+1	в	в	ADP	_	_	_	_	_	_
+2	одном	один	DET	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+3	дурацком	дурацк	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+4	советском	советский	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+5	интервью	интервью	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+7	видел	видеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+8	такую	такой	DET	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+9	штуку	штука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+10	:	:	PUNCT	_	_	_	_	_	_
+11	/	/	PUNCT	_	_	_	_	_	_
+12	интрервьюер	интрервьюер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+13	спросил	спросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+14	у	у	ADP	_	_	_	_	_	_
+15	интревьюироваемого	интревьюироваемый	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	_
+16	[	[	PUNCT	_	_	_	_	_	SpaceAfter=No
+17	смеётся	смеёться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+18	]	]	PUNCT	_	_	_	_	_	_
+19	а	а	CCONJ	_	_	_	_	_	_
+20	чем	что	PRON	_	Case=Ins	_	_	_	_
+21	это	это	PART	_	_	_	_	_	_
+22	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	_
+23	тут	тут	ADV	_	Degree=Pos	_	_	_	_
+24	занимаетесь	заниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+25	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 53
+# text = а тот прямо пилил, стелил деревяшку / тот ему сказал / в хокей играю / так вот / я / меня сейчас если-бы / моя дочь спросила чем я занимаюсь я бы тоже сказал бы в хокей играю, но нет / я играю не в хокей, я / крашу / столешню / к-коричневым воском что-бы она была гораздо красивее чем она сейчас.
+1	а	а	CCONJ	_	_	_	_	_	_
+2	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+3	прямо	прямо	PART	_	_	_	_	_	_
+4	пилил	пилить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	_
+6	стелил	стелить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+7	деревяшку	деревяшка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+10	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+11	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	в	в	ADP	_	_	_	_	_	_
+14	хокей	хокей	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+15	играю	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	так	так	ADV	_	Degree=Pos	_	_	_	_
+18	вот	вот	PART	_	_	_	_	_	_
+19	/	/	PUNCT	_	_	_	_	_	_
+20	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+21	/	/	PUNCT	_	_	_	_	_	_
+22	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	_	_	_	_
+23	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	_
+24	если	если	SCONJ	_	_	_	_	_	SpaceAfter=No
+25	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
+26	бы	бы	PART	_	Mood=Cnd	_	_	_	_
+27	/	/	PUNCT	_	_	_	_	_	_
+28	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+29	дочь	дочь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+30	спросила	спросить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+31	чем	что	PRON	_	Case=Ins	_	_	_	_
+32	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+33	занимаюсь	заниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+34	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+35	бы	бы	PART	_	Mood=Cnd	_	_	_	_
+36	тоже	тоже	PART	_	_	_	_	_	_
+37	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+38	бы	бы	PART	_	Mood=Cnd	_	_	_	_
+39	в	в	ADP	_	_	_	_	_	_
+40	хокей	хокей	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+41	играю	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+42	,	,	PUNCT	_	_	_	_	_	_
+43	но	но	CCONJ	_	_	_	_	_	_
+44	нет	нет	PART	_	_	_	_	_	_
+45	/	/	PUNCT	_	_	_	_	_	_
+46	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+47	играю	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+48	не	не	PART	_	_	_	_	_	_
+49	в	в	ADP	_	_	_	_	_	_
+50	хокей	хокей	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+51	,	,	PUNCT	_	_	_	_	_	_
+52	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+53	/	/	PUNCT	_	_	_	_	_	_
+54	крашу	краша	DET	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+55	/	/	PUNCT	_	_	_	_	_	_
+56	столешню	столешня	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+57	/	/	PUNCT	_	_	_	_	_	_
+58	к-коричневым	к-коричневой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+59	воском	воский	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+60	что-бы	что-ба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+61	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+62	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+63	гораздо	гораздо	ADV	_	Degree=Pos	_	_	_	_
+64	красивее	красиво	ADV	_	Degree=Cmp	_	_	_	_
+65	чем	чем	SCONJ	_	_	_	_	_	_
+66	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+67	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+68	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 55
+# text = и вообще я занимаюсь [смеется] занимаюсь изредка в своем доме ремонтом / наверное в камеру видно / разрушенный балкон / этоя его разрушил
+1	и	и	CCONJ	_	_	_	_	_	_
+2	вообще	вообще	ADV	_	Degree=Pos	_	_	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+4	занимаюсь	заниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+5	[	[	PUNCT	_	_	_	_	_	SpaceAfter=No
+6	смеется	смеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+7	]	]	PUNCT	_	_	_	_	_	_
+8	занимаюсь	заниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+9	изредка	изредка	ADV	_	Degree=Pos	_	_	_	_
+10	в	в	ADP	_	_	_	_	_	_
+11	своем	свой	DET	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+12	доме	дом	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+13	ремонтом	ремонт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+14	/	/	PUNCT	_	_	_	_	_	_
+15	наверное	наверное	ADV	_	Degree=Pos	_	_	_	_
+16	в	в	ADP	_	_	_	_	_	_
+17	камеру	камера	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+18	видно	видно	ADV	_	Degree=Pos	_	_	_	_
+19	/	/	PUNCT	_	_	_	_	_	_
+20	разрушенный	разрушить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+21	балкон	балкон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+22	/	/	PUNCT	_	_	_	_	_	_
+23	этоя	этой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+24	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+25	разрушил	разрушить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n\r\n
+
+oas@
+
+[смеется]
+
+afs@
+
+# sent_id = 59
+# text = теперь строю обратно / ээ / ну / мне кажется я наговорил там уже на / минут на восемнадцать
+1	теперь	теперь	ADV	_	Degree=Pos	_	_	_	_
+2	строю	строить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+3	обратно	обратно	ADV	_	Degree=Pos	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	ээ	ээ	INTJ	_	_	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	ну	ну	PART	_	_	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+10	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+11	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+12	наговорил	наговорить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+13	там	там	ADV	_	Degree=Pos	_	_	_	_
+14	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+15	на	на	ADP	_	_	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	_
+18	на	на	ADP	_	_	_	_	_	_
+19	восемнадцать	восемнадцать	NUM	_	Case=Acc	_	_	_	SpacesAfter=\r\n\r\n
+
+oas@
+
+# sent_id = 61
+# text = на шесть
+1	на	на	ADP	_	_	_	_	_	_
+2	шесть	шесть	NUM	_	Case=Acc	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 63
+# text = на шесть?
+1	на	на	ADP	_	_	_	_	_	_
+2	шесть	шесть	NUM	_	Case=Acc	_	_	_	SpaceAfter=No
+3	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 65
+# text = ах / ам / значит / балкон я строю уже долго / уже / где-то три месяца.
+1	ах	и	INTJ	_	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	ам	а	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	значит	значит	ADV	_	Degree=Pos	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	балкон	балкон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+8	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+9	строю	строить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+10	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+11	долго	долго	ADV	_	Degree=Pos	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+14	/	/	PUNCT	_	_	_	_	_	_
+15	где-то	где-то	ADV	_	Degree=Pos	_	_	_	_
+16	три	три	NUM	_	Case=Nom	_	_	_	_
+17	месяца	месяц	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 67
+# text = он мне уже надоел.
+1	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+2	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+3	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+4	надоел	надоесть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 69
+# text = сейчас / сейчас / я / на глазах изумлённых зрителей буду красить
+1	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	на	на	ADP	_	_	_	_	_	_
+8	глазах	глаз	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	_	_	_	_
+9	изумлённых	изумлённый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	_	_	_	_
+10	зрителей	зритель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+11	буду	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+12	красить	красить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	SpacesAfter=\r\n\r\n
+
+oas@
+
+[смеется]
+
+afs@
+
+[смеется]
+
+# sent_id = 73
+# text = буду красить / э / снова / эту свою столешню.
+1	буду	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+2	красить	красять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	э	эра	INTJ	_	_	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	снова	снова	ADV	_	Degree=Pos	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+9	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+10	столешню	столешня	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+afs@
+
+# sent_id = 75
+# text = эта столешня кстати к барной стойке
+1	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+2	столешня	столешня	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+3	кстати	кстати	ADV	_	Degree=Pos	_	_	_	_
+4	к	к	ADP	_	_	_	_	_	_
+5	барной	барный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+6	стойке	стойка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+
